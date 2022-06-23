@@ -1,2 +1,2 @@
 # orphange food delivery
-This project will contain all the information about the restaurant near to your place to search your favorite food and get the favorite food.
+This project will help people to share their leftover foods to orphange at anytime from any place and whenever they want.
